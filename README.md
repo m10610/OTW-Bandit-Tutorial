@@ -1,6 +1,8 @@
 # OTW-Bandit-Tutorial
 ## Intro
-This is a quick guide made by your's truly to get you started in Over the Wire: Bandit, if you so choose. I recommend following along with the main website, and attempting all games before looking at solutions  
+This is a quick guide made by your's truly to get you started in Over the Wire: Bandit, if you so choose. I recommend following along with the main website, and attempting all games before looking at solutions
+*Main Website*: https://overthewire.org/wargames/bandit/
+
 ## Setup
  This assumes you have Virtual Box setup as your VM manager and a VM of Kali Linux. If you still need to set those up here's a tutorial:
 *Virtual Box*: https://youtu.be/irGTD6jmYhc,
